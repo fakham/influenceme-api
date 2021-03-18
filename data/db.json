@@ -1,0 +1,23 @@
+{
+  "ids": {
+    "Post": 5,
+    "Profile": 3,
+    "User": 3
+  },
+  "models": {
+    "Post": {
+      "1": "{\"title\":\"Natural Language Processing (NLP) tool\",\"content\":\"Main goal of the research\\n\\nCheck the changes with the leadership attributes during time (different era of industrial revolutions).\\nLink leadership attributes to other factors – company size, market segment, other quantitative data\\n\\nGoal of the technology tool\\n1. Automatically find (morphologic method) the leadership attribute within given document (pdf/doc).\\n2. Link those attributes to person (which is in the article)\\n3. Analyze the document – main ideas, common words/verbs/etc.\\n4. Quantitative analysis of the document (leadership attributes, and other data)\",\"tag\":\"Data Science\",\"date\":\"2021-03-18T17:15:45.030Z\",\"price\":10000,\"time\":30,\"propositions\":0,\"author\":\"Mohammed FAKHAM\",\"userId\":\"mohammed.fakham@gmail.com\",\"id\":1}",
+      "2": "{\"title\":\"Data analyst\",\"content\":\"We want a Data Analyst who is responsible for preparation of reagents and solutions as well as sample processing under required regulatory documentation. Analyzes data, interprets results, and contributes to troubleshooting activities, such inventory of chemicals, washing glassware, waste disposal and/or general cleanup. May provide basic training for other laboratory personnel.\",\"tag\":\"Data Analysis\",\"date\":\"2021-03-18T17:16:37.828Z\",\"price\":20000,\"time\":30,\"propositions\":0,\"author\":\"Mohammed FAKHAM\",\"userId\":\"mohammed.fakham@gmail.com\",\"id\":2}",
+      "3": "{\"title\":\"Flutter Mobile App Development\",\"content\":\"Looking for FLUTTER Mobile App Development\\n\\n1. Login / SignUp / Reset/ OTP Authorization\\n2. Discover and Select a service type and service location\\n3. Reserve/Book service\\n4. Use / Pay / End booking 5. User Profile\\n5. Map / Reviews / Social Media Integration\\n\",\"tag\":\"Flutter\",\"date\":\"2021-03-18T17:15:40.352Z\",\"price\":1000,\"time\":10,\"propositions\":0,\"author\":\"Abdellah JAIZE\",\"userId\":\"abdellah.jaize@gmail.com\",\"id\":3}",
+      "4": "{\"title\":\"Flutter developer for dating app design\",\"content\":\"Need to design an end to end complete dating app using Flutter with all necessary features\",\"tag\":\"Flutter\",\"date\":\"2021-03-18T17:18:01.258Z\",\"price\":5000,\"time\":10,\"propositions\":0,\"author\":\"Abdellah JAIZE\",\"userId\":\"abdellah.jaize@gmail.com\",\"id\":4}"
+    },
+    "Profile": {
+      "mohammed.fakham@gmail.com": "{\"username\":\"mohammed.fakham@gmail.com\",\"fullname\":\"Mohammed FAKHAM\",\"biography\":\"Hello, I'm a Software developer and Junior Data Scientist.\\nFeel free to reach to me on facebook and instagram.\",\"instagram\":\"mohammedfakham\",\"facebook\":\"mohammed.fakham\",\"avatar\":\"https://firebasestorage.googleapis.com/v0/b/influenceme-12996.appspot.com/o/images%2Foijp4tnmyz?alt=media&token=5ce2becf-68c4-43a0-b1f0-70c645779468\"}",
+      "abdellah.jaize@gmail.com": "{\"username\":\"abdellah.jaize@gmail.com\",\"fullname\":\"Abdellah JAIZE\",\"biography\":\"Hello, I'm Abdellah JAIZE a Data Scientist and VueJS developer.\",\"facebook\":\"abdellah.jaize\",\"avatar\":\"https://firebasestorage.googleapis.com/v0/b/influenceme-12996.appspot.com/o/images%2Fmesmghkjhpm?alt=media&token=521e5560-80cb-4b48-8c03-7c6ddd9f63a4\"}"
+    },
+    "User": {
+      "mohammed.fakham@gmail.com": "{\"email\":\"mohammed.fakham@gmail.com\",\"password\":\"fakham123\"}",
+      "abdellah.jaize@gmail.com": "{\"email\":\"abdellah.jaize@gmail.com\",\"password\":\"abdellah123\"}"
+    }
+  }
+}
